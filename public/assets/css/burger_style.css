@@ -1,0 +1,41 @@
+  
+.jumbotron{
+    background-color: #e93351;
+    color: #cdbfe3;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.panel-default>.panel-heading {
+    color: #fff;
+    background-color: #0275d8
+}
+
+.intro{
+  
+    width: 400px;
+}
+
+img{
+    vertical-align: middle;
+    width: 200px;
+    padding: 10px
+}
+
+h1{
+    font-family: Barrio;
+    font-size: 52px;
+    color: white;
+}
+h1,h2,h3,h4,h5,h6{
+    text-align: center;
+    padding: 1rem;
+}
+.btn-sm{
+    margin: .25rem;
+    
+}
+.create-update-form{
+    text-align: center;
+    padding-top: 1.25rem;
+}
